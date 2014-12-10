@@ -1,4 +1,4 @@
-Jared's Dotfiles
+Sameer's Dotfiles
 ===========
 For vim please see: git://github.com/jcugno/dot_vim.git
 
