@@ -1,7 +1,5 @@
 Sameer's Dotfiles
 ===========
-For vim please see: git://github.com/jcugno/dot_vim.git
-
 I use yadr at the moment which is what the .zsh.after directory is for
 https://github.com/skwp/dotfiles.git
 
